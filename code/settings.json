@@ -1,0 +1,13 @@
+{
+    "workbench.startupEditor": "none",
+    "files.autoSave": "afterDelay",
+    "window.commandCenter": false,
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "extensions.ignoreRecommendations": true,
+    "haskell.manageHLS": "GHCup",
+    "workbench.colorTheme": "poimandres",
+    "explorer.confirmDelete": false,
+    "update.showReleaseNotes": false,
+    "workbench.activityBar.location": "top"
+}
