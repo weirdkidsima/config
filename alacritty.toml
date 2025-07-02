@@ -18,7 +18,7 @@ import = []
 
 
 # Working directory
-working_directory = "C:/Users/kmrya/Desktop/TS/comp/"  # Default: "None"
+working_directory = "C:/Users/stupn/Desktop/TS/comp/"  # Default: "None"
 
 # Live config reload (changes require restart)
 live_config_reload = true  # Default: true
